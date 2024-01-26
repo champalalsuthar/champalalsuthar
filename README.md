@@ -38,6 +38,6 @@ I'm always open to collaborating on interesting projects. If you have a project 
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true) 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=champalalsuthar&show_icons=true&count_private=true) 
 
 Thanks for visiting my profile! 😄
