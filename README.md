@@ -1,4 +1,4 @@
-# Hi there, I'm Champa Lal Sutahr 👋
+# Hi there, I'm Champa Lal Suthar 👋
 
 I'm a passionate web developer with a keen interest in creating intuitive and scalable web applications. My goal is to leverage my skills to build meaningful and impactful projects.
 
