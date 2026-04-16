@@ -1,48 +1,111 @@
-# Hi there, I'm Champa Lal Suthar 👋
+# 👋 Hi, I'm Champa Lal Suthar
 
-I'm a passionate web developer with a keen interest in creating intuitive and scalable web applications. My goal is to leverage my skills to build meaningful and impactful projects.
+🚀 **Full Stack Developer (MERN | Next.js | React Native) with 2+ Years of Experience**
 
-## 🚀 Skills
+I build scalable web & mobile applications focused on performance, user experience, and real-world impact.
+Currently working on SaaS platforms, admin systems, and real-time applications.
 
-- **Frontend:**  HTML, CSS, JavaScript
-- **FrameWork:**  Raect 
-- **Database:** MongoDB
-- **Version Control:** Git, GitHub
-- **Tools:** VS Code
-- **Deployment:** Vercel
+---
 
+## 💼 Experience Snapshot
 
-## 🌱 Projects
+* 🏢 **Full Stack Developer @ CAPSITECH IT SERVICES**
 
-### Rk Clinic
+  * Built **Live Resume Builder (CapsiCore)** with dynamic templates, PDF/Word export, and shareable profile links
+  * Worked on scalable features for professional networking & productivity tools
 
-- Description: developed a user-friendly healthcare platform allowing doctor appointments, showcasing comprehensive clinic services, and enabling virtual consultations for expert medical advice. Ensuring a responsive UI design across devices
-- Technologies Used: HTML, CSS, JavaScript, React
-- Demo:  https://rkclinic.vercel.app/
-- GitHub Repository: https://github.com/champalalsuthar/Hospital_Wabsite
+* 💻 **Software Engineer @ KODE KLAN**
 
-### Coding Club Quiz web app
+  * Developed **Travel Booking Platform** (Flights, Hotels, Packages)
+  * Built **Restaurant POS System** with payment integrations
+  * Created **React Native App** with real-time chat & task management
 
-- Description: Coding Club Quiz web app project. This platform is designed to cater to students who can log in to their accounts, select coding quizzes based on their preferred subjects and difficulty levels, and actively participate in the quizzes. The web app provides instant results and ranks to gauge their performance and progress
-- Technologies Used: HTML, CSS, JavaScript, React, NodeJs 
-- GitHub Repository: https://github.com/champalalsuthar/Coding_Club_Quiz_Web_App
+* 🌱 **Intern @ ECHIOFY**
 
-## 📫 Let's Connect
+  * Improved UI/UX and optimized platform performance
 
-- LinkedIn: https://www.linkedin.com/in/champa-lal-suthar-325040253/
-- GitHub: https://github.com/champalalsuthar
+---
 
-## 🤝 Open to Collaboration
+## 🛠️ Tech Stack
 
-I'm always open to collaborating on interesting projects. If you have a project idea, feel free to reach out to me. Let's create something amazing together!
+### 👨‍💻 Core
 
-## 📊 GitHub Stats
+* **Frontend:** React.js, Next.js, React Native
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+* **State Management:** Redux, TanStack Query
 
+### ⚙️ Tools & Platforms
 
-<!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=champalalsuthar&show_icons=true&locale=en&layout=compact" alt="ahsan36" /></p>--->
+* AWS, Git, GitHub, Vercel, WinSCP
+* Tailwind CSS, REST APIs
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=champalalsuthar&show_icons=true&locale=en" alt="ahsan36" /></p>
+---
 
-<!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=champalalsuthar&" alt="ahsan36" /></p>--->
+## 🚀 Featured Projects
 
-Thanks for visiting my profile! 😄
+### 🔹 WorkMate (SaaS + Mobile App)
+
+* Employee management system with **attendance, task tracking, leave system**
+* 📍 Location-based check-in with **face recognition**
+* 🔐 Secure auth with JWT & bcrypt
+* 📈 Improved operational efficiency by **35%+**
+
+👉 https://work-mate-landing-page.vercel.app
+
+---
+
+### 🔹 Travel Booking Platform  
+
+* Flight, Hotel & Package booking system
+* Admin panel with role-based access
+* 💳 Payment integration + AWS deployment
+
+👉 https://journeymonk.com
+
+---
+
+### 🔹 Restaurant POS System
+
+* Dine-in & takeaway system
+* Barcode-based product system
+* Real-time order tracking + reports
+
+---
+
+### 🔹 Resume Builder (CapsiCore)  -@CAPSITECH IT SERVICES
+
+* Dynamic resume templates
+* Export to **PDF/Word**
+* Shareable profile links
+
+👉 https://www.capsicore.com
+
+---
+
+## 📊 Achievements
+
+* 🧠 Solved **700+ DSA problems**
+* 🏆 Top **1L rank on LeetCode**
+* 🥇 College Rank Top 3 (Coding Ninjas)
+* 🎖️ INSPIRE Award (Govt. of India)
+
+---
+
+## 📫 Connect With Me
+* 🌐 Email: champalalsuthar.dev@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/champa-lal-suthar-325040253/
+* 💻 GitHub: https://github.com/champalalsuthar
+* 🌐 Portfolio: https://champalalsuthar.dev
+
+---
+
+## 🤝 Open to Opportunities
+
+I’m currently looking for **Full Stack / MERN / React roles** where I can build impactful products and grow as an engineer.
+
+If you're hiring or have an exciting project — let’s connect! 🚀
+
+---
+
+⭐ *Thanks for visiting my profile!*
